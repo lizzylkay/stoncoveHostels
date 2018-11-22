@@ -1,0 +1,1 @@
+package com.stonecove.stonecovehostels;public class PagerAdapter {}
